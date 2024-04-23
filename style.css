@@ -154,6 +154,7 @@ section{
 
 .about .row .image{
     flex: 1 1 40rem;
+    
 }
 
 .about .row .image img{
@@ -202,6 +203,7 @@ section{
 .services .box-container .box .icon img{
     width: 5rem;
     margin-top: 2rem;
+    transform: scale(1.2,1.2);
 }
 
 .services .box-container .box .content h3{
@@ -480,7 +482,7 @@ section{
 /*newsleter*/
 
 .newsletter{
-    background: url(home.jpg) no-repeat;
+    background: url(sub.jpg) no-repeat;
     background-position: center;
     background-size: cover; 
 }
